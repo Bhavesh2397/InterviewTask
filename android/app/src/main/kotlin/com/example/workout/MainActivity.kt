@@ -1,4 +1,4 @@
-package com.example.interviewtask
+package com.example.workout
 
 import io.flutter.embedding.android.FlutterActivity
 
